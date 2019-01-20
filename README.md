@@ -1,9 +1,6 @@
 
 # Bloc Jams
 A web based media player application coded using the jQuery framework library.
-
-<div style="text-align:center"><img src="https://www.icloud.com/iclouddrive/0ILfeLHqBcgg7pH60BxKWWJHA#BlocjamsScreenshot" width="80%"/></div>
-
 ## Features
 * Web-based simplicity
 * Click on a file to start, click again to pause
@@ -13,8 +10,8 @@ A web based media player application coded using the jQuery framework library.
 
 If you have some missing fonts that are available for free download (i.e on Google Fonts), FontBuddy will display a tiny message. Click it to see & install missing fonts. That’s it.
 
+<img src="https://github.com/djguzie/bloc-jams-jquery/blob/493814e84cf3028770a7336e6db3766e8761f35a/assets/images/BlocjamsScreenshot.png" width="80%"/>
 
-![](https://www.icloud.com/iclouddrive/0ILfeLHqBcgg7pH60BxKWWJHA#BlocjamsScreenshot)
 
 ## Anima
 In case you haven’t heard of us yet, we’re [Anima](https://www.animaapp.com). 
